@@ -1,5 +1,7 @@
 # IPFS GitHub Pages Actions Test
 
+[![Deploy IPFS site](https://github.com/RandyMcMillan/-ipfs-gh-pages-actions-test/actions/workflows/deploy.yml/badge.svg)](https://github.com/RandyMcMillan/-ipfs-gh-pages-actions-test/actions/workflows/deploy.yml)
+
 A consumer repository used to validate the reusable
 [`RandyMcMillan/ipfs-gh-pages`](https://github.com/RandyMcMillan/ipfs-gh-pages) GitHub Action.
 
